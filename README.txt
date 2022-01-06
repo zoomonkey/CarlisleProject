@@ -22,5 +22,4 @@ The calendar control for Req Ship Date is formatted and looks like, 20200602, It
 Maybe the colors are bland, could be prettier.
 Maybe a way to hide columns, or make them bigger.  I'm sure not all of the columns are necessary.
 I question whether the database should have a calculated field (GrossSalesAmount).  That could be removed and only calculated when necessary.
-
-ff
+a
